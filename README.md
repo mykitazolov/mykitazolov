@@ -2,9 +2,9 @@
 
 I am a 20 year old CS student 👨‍🎓 @ UIC. I have a keen interest on working with Python & C++, and tools such as Docker & Travis CI. ⌨️ 
 
-I got into Computer Science my last year of High School when I took a class on Web & IOS App Development where I learned the basics of Swift. 🤓 Working with such a language helped guide me into the CS sphere. I was astonished by the possibilities of what I could do with simple lines of code. This curiosity carried through to my education at UIC, where I learned a multitude of different languages, frameworks, and built unique projects.
+I got into CS my last year of high school when I took a class on Web & IOS App Development where I learned the basics of Swift. 🤓 Working with such a language helped guide me into the CS sphere. I was astonished by the possibilities of what I could do with simple lines of code. This curiosity carried through to my education at UIC, where I learned a multitude of different languages, frameworks, and built unique projects.
 
-In between semesters I try to stay on top of my learning by taking courses on Udemy. So far I have taken a Web Development Bootcamp where I learned the basics of HTML, CSS, JavaScript, PostgreSQL, Node, and even React. I have also taken a Docker course, where I learned the basics of Docker, and continuous integration tools such as Travis CI. Even after completing a course on Python at UIC, I still took a Python course on Udemy to help further solidify my knowledge in the language. 📈
+In between semesters, I try to stay on top of my learning by taking courses on Udemy. So far I have taken a Web Development Bootcamp where I learned the basics of HTML, CSS, JavaScript, PostgreSQL, Node, and even React. I have also taken a Docker course, where I learned the basics of Docker, and continuous integration tools such as Travis CI. Even after completing a course on Python at UIC, I still took a Python course on Udemy to help further solidify my knowledge in the language. 📈
 
 
 - 🌱 I’m currently learning Software Design w/ Java & Maven 
