@@ -1,3 +1,4 @@
+<!--
 ## Hi Mykita here 👋
 
 I am a 20 year old CS student 👨‍🎓 @ UIC. I have a keen interest on working with Python & C++, and tools such as Docker & Travis CI. ⌨️ 
@@ -10,7 +11,7 @@ In between semesters, I try to stay on top of my learning by taking courses on U
 - 🌱 I’m currently learning Software Design w/ Java & Maven 
 - 🧑‍💻 I'm currently on the lookout for a SWE internship
 
-
+-->
 
 <!--
 **mykitazolov/mykitazolov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
